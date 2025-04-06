@@ -6,7 +6,6 @@ self.addEventListener('install', (event) => {
         'style.css',    // Add your CSS file(s) here
         'script.js',    // Add your JS file(s) here
         'icon.png',     // Your icon
-        'icon-512.png', // Your icon
         // Add other assets as needed
       ]);
     })
